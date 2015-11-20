@@ -1,9 +1,6 @@
-# hello-world
+hello-world
+===========
 
-## Introduction
-A test hello world program to enhance basic knowledge in github. It is also a great way to practice the **markdown language** when editing the README.md file.
+Hi!
 
-## Learning Curve
-Things to Learn:
-* Basics of Git
-* Intermediate Git Commands
+I'm Francis Albert Calas, I'm a new programmer. I know a little about web development. I want to learn more and enhance my skills and knowledge on the selected field. I'm trying to learn the proper use of GitHub.
